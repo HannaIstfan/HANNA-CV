@@ -1,0 +1,47 @@
+.Card{
+    padding: 20px 10px;
+    width: 300px;
+    height: 440px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(49, 47, 47);
+}
+.Cardimg{
+    margin: 0;
+    border-radius: 20px;
+    width: 270px;
+    height: 210px;
+}
+
+.paragraph{
+    margin: 0 20px;
+}
+.paragraph h3{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.bottom h3 {
+    font-size: 20px;
+}
+.paragraph p {
+    margin: 0;
+}
+.bottom{
+    width: 250px;
+    display: flex;
+    align-items: center;
+}
+.bottom a{
+    border: solid;
+    text-decoration: none;
+    background-color: azure;
+    color: darkslategrey;
+    font-size: 20px;
+    border-radius: 100px;
+    padding: 9px 13px;
+    font-weight: 400;
+    margin-left: 30px;
+    font-size: 15px;
+}

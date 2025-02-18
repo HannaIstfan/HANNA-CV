@@ -1,0 +1,25 @@
+.Projects{
+    background-color: rgb(26, 25, 25);
+    margin: 70px;
+    padding: 0 60px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    border: solid;
+    border-color: #5fbcff;
+    box-shadow:
+    0px 0px 15px 0px #5fbcff; /* outer cyan */
+}
+.Projects ul{
+    padding: 0px;
+}
+.Projects h2{
+    font-size: 40px;
+}
+.projectlist li{
+    margin: 0px;
+    display: flex;
+}
+.Card {
+    margin: 20px;
+}
